@@ -86,7 +86,7 @@ section {
     margin: 15px 0px;
 }
 
-.currency-box{
+.currency-box, .convert-box{
     display: flex;
     align-items: center;
     flex-direction: column;
